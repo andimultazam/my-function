@@ -19,5 +19,8 @@
   "homepage": "https://github.com/andimultazam/my-function#readme",
   "dependencies": {
     "@types/aws-lambda": "^8.10.130"
+  },
+  "devDependencies": {
+    "esbuild": "0.19.8"
   }
 }
