@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/andimultazam/my-function/issues"
   },
-  "homepage": "https://github.com/andimultazam/my-function#readme"
+  "homepage": "https://github.com/andimultazam/my-function#readme",
+  "dependencies": {
+    "@types/aws-lambda": "^8.10.130"
+  }
 }
